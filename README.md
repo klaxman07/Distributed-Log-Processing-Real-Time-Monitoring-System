@@ -114,6 +114,17 @@ Unlike typical academic projects, this system focuses on:
 * End-to-end system (backend + frontend + monitoring)
 
 ---
+## 📸 Screenshots
+
+### 🖥️ Dashboard UI
+![Dashboard](assets/dashboard.png)
+
+### 📄 Logs
+![Logs](assets/logs.png)
+
+### 🚨 Alerts
+![Alerts](assets/alerts.png)
+
 
 ## 📌 Future Improvements
 
